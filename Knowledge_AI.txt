@@ -1,0 +1,1575 @@
+# Knowledge Base Portal NTB untuk Botpress
+
+Dokumen ini berisi knowledge base lengkap untuk chatbot Portal NTB yang bisa langsung di-input ke Botpress.
+
+---
+
+## 📋 KATEGORI 1: LAYANAN PUBLIK
+
+### KB-001: Layanan yang Tersedia
+
+**Pertanyaan:**
+
+- Layanan apa saja yang tersedia di Portal NTB?
+- Apa saja pelayanan yang disediakan?
+- Layanan publik apa yang ada?
+- Layanan apa saja?
+
+**Jawaban:**
+Portal NTB menyediakan berbagai layanan terintegrasi untuk masyarakat dan pemerintah, antara lain:
+
+1. DDSS - Digital Document Signature System untuk pengelolaan data terintegrasi
+2. ESENSI - Elektronik Presensi NTB
+3. JDIH - Jaringan Dokumentasi dan Informasi Hukum
+4. SPAB - Satuan Pendidikan Aman Bencana
+5. SIMASKOT - Sistem Informasi Survei Kepuasan Masyarakat Online Terintegrasi
+6. BUKAASET - Sistem untuk mengelola dan memfasilitasi pemanfaatan Barang Milik Daerah (BMD)
+7. LESTARI - Platform manajemen persampahan NTB
+8. PLUT - Pusat Layanan Usaha Terpadu
+9. Layanan TIK - Layanan Teknologi Informasi dan Komunikasi
+10. Satu Data NTB - Portal data dan statistik pembangunan Provinsi NTB
+11. Kawanusa - Layanan kunjungan dan pemesanan tiket kawasan wisata NTB
+12. PPID - Layanan informasi publik dan permohonan informasi masyarakat
+13. Layanan Kesehatan - Informasi dan pendaftaran layanan rumah sakit milik Pemprov NTB
+14. Panel Harga - Informasi harga kebutuhan pokok dan komoditas di NTB
+15. Layanan Pendidikan & Penerimaan - Informasi layanan pendidikan dan seleksi/pendaftaran peserta didik/mahasiswa
+
+Anda bisa mengakses semua layanan melalui portal ini atau menghubungi instansi terkait.
+
+**Keywords:** layanan, service, pelayanan, portal, aplikasi
+
+---
+
+### KB-002: Cara Menyampaikan Pengaduan
+
+**Pertanyaan:**
+
+- Bagaimana cara menyampaikan pengaduan?
+- Dimana bisa lapor keluhan?
+- Cara menyampaikan aspirasi?
+- Bagaimana cara komplain?
+
+**Jawaban:**
+Masyarakat dapat menyampaikan pengaduan atau aspirasi melalui beberapa cara:
+
+1. Portal pengaduan online (jika tersedia)
+2. Email resmi instansi terkait
+3. Datang langsung ke kantor instansi
+4. Melalui media sosial resmi Pemprov NTB
+5. Call center pemerintah provinsi: (0370) 622373
+
+Setiap pengaduan akan ditindaklanjuti sesuai prosedur yang berlaku.
+
+**Keywords:** pengaduan, complaint, lapor, keluhan, aspirasi
+
+---
+
+### KB-003: Informasi Publik (PPID)
+
+**Pertanyaan:**
+
+- Bagaimana cara mendapatkan informasi publik?
+- Apa itu PPID?
+- Cara mengakses informasi publik?
+
+**Jawaban:**
+Sesuai UU Keterbukaan Informasi Publik, masyarakat berhak mengakses informasi publik melalui PPID (Pejabat Pengelola Informasi dan Dokumentasi).
+
+Cara mengakses:
+
+1. Kunjungi website PPID Provinsi NTB
+2. Ajukan permohonan informasi secara online atau offline
+3. Informasi yang dikecualikan akan dijelaskan sesuai aturan
+
+Informasi yang tersedia meliputi: profil, program, anggaran, dan layanan publik.
+
+**Keywords:** informasi publik, ppid, keterbukaan informasi, transparansi
+
+---
+
+## 📋 KATEGORI 2: APLIKASI & SISTEM
+
+### KB-004: DDSS (Digital Document Signature System)
+
+**Pertanyaan:**
+
+- Apa itu DDSS?
+- DDSS untuk apa?
+- Bagaimana cara menggunakan DDSS?
+
+**Jawaban:**
+DDSS (Digital Document Signature System) adalah sistem tanda tangan dokumen elektronik yang dikembangkan oleh Dinas Kominfo NTB. Platform ini digunakan untuk mempermudah proses administrasi dan legalisasi dokumen secara digital di lingkungan pemerintah daerah.
+
+Melalui DDSS, pejabat dan instansi dapat menandatangani dokumen secara elektronik yang sah, aman, dan terverifikasi sesuai standar tanda tangan digital pemerintah.
+
+Sistem ini mendukung efisiensi, transparansi, serta pengurangan penggunaan kertas (paperless government).
+
+**Cara Mengakses DDSS:**
+
+1. Masuk ke Portal NTB dan pilih menu “DDSS”.
+2. Login menggunakan akun ASN yang telah terdaftar.
+3. Unggah dokumen yang akan ditandatangani.
+4. Lakukan proses tanda tangan digital sesuai petunjuk sistem.
+5. Dokumen akan tersimpan dan dapat diverifikasi secara elektronik.
+
+**Keywords:** ddss, tanda tangan digital, dokumen elektronik, e-signature, digital signature, dokumen pemerintah
+
+---
+### KB-005: JDIH (Jaringan Dokumentasi Hukum)
+
+**Pertanyaan:**
+
+- Apa itu JDIH?
+- Bagaimana cara mencari peraturan daerah?
+- Dimana saya bisa lihat produk hukum NTB?
+- JDIH untuk apa?
+
+**Jawaban:**
+JDIH (Jaringan Dokumentasi dan Informasi Hukum) adalah sistem yang menyediakan akses ke berbagai produk hukum daerah NTB seperti Peraturan Daerah, Peraturan Gubernur, dan dokumen hukum lainnya.
+
+Anda dapat mengakses JDIH melalui portal ini untuk mencari, membaca, dan mengunduh dokumen hukum. JDIH dikelola oleh Bagian Hukum Setda Provinsi NTB.
+
+**Keywords:** jdih, hukum, peraturan, dokumentasi hukum, produk hukum
+
+---
+
+### KB-006: LESTARI NTB (Platform Persampahan)
+
+**Pertanyaan:**
+
+- Apa itu Lestari NTB?
+- Bagaimana cara mengelola sampah di NTB?
+- Dimana lokasi bank sampah?
+
+**Jawaban:**
+Lestari NTB adalah platform manajemen dan visualisasi data persampahan Nusa Tenggara Barat. Platform ini menyediakan informasi transparan tentang pengelolaan sampah, lokasi bank sampah, TPS, dan statistik persampahan di seluruh wilayah NTB.
+
+Fitur Lestari NTB:
+
+- Peta bank sampah
+- Statistik persampahan
+- Informasi TPS
+- Data pengolahan sampah
+
+**Keywords:** lestari, sampah, persampahan, lingkungan, bank sampah
+
+---
+
+### KB-007: SPAB (Sistem Pengelolaan Aset)
+
+**Pertanyaan:**
+
+- Apa itu SPAB?
+- Bagaimana cara mengelola aset daerah?
+- SPAB untuk apa?
+
+**Jawaban:**
+SPAB (Sistem Pengelolaan Aset Barang) adalah sistem yang dikelola oleh BPKAD untuk mengelola dan memantau aset barang milik daerah. Sistem ini membantu dalam inventarisasi, pemeliharaan, dan pelaporan aset daerah secara digital.
+
+SPAB digunakan oleh instansi pemerintah untuk mengelola aset daerah secara efisien dan transparan.
+
+**Keywords:** spab, aset, barang daerah, pengelolaan aset
+
+---
+
+### KB-008: ESENSI (Elektronik Presensi NTB)
+
+**Pertanyaan:**
+
+- Apa itu ESENSI?
+- ESENSI untuk apa?
+- Bagaimana menggunakan ESENSI?
+- Cara absen online ASN NTB?
+
+**Jawaban:**
+ESENSI (Elektronik Presensi NTB) adalah sistem presensi online yang digunakan oleh Aparatur Sipil Negara (ASN) di lingkungan Pemerintah Provinsi NTB. Melalui ESENSI, proses absensi menjadi lebih tertib, transparan, dan terdokumentasi secara digital.
+
+Fungsi utama ESENSI:
+
+- Mencatat kehadiran ASN secara elektronik (datang/pulang)
+- Memantau ketertiban kehadiran ASN oleh atasan
+- Menyediakan rekap presensi untuk keperluan administrasi kepegawaian
+
+**Cara Menggunakan ESENSI (secara umum):**
+
+1. Akses aplikasi ESENSI melalui portal resmi Pemerintah Provinsi NTB.
+2. Login menggunakan akun ASN yang telah terdaftar.
+3. Lakukan presensi sesuai ketentuan (misalnya saat datang dan pulang kerja).
+4. Pastikan data presensi sudah terekam di sistem.
+
+Untuk informasi teknis lebih lanjut (misalnya lupa password, masalah login, atau panduan penggunaan detail), ASN dapat menghubungi Dinas Kominfo NTB atau admin kepegawaian di instansi masing-masing.
+
+**Keywords:** esensi, presensi, absensi online, presensi asn, kehadiran pegawai
+
+---
+
+### KB-009: SIMASKOT (Sistem Informasi Survei Kepuasan Masyarakat Online Terintegrasi)
+
+**Pertanyaan:**
+
+- Apa itu SIMASKOT?
+- SIMASKOT untuk apa?
+- Bagaimana cara menggunakan SIMASKOT?
+
+**Jawaban:**
+SIMASKOT (Sistem Informasi Survei Kepuasan Masyarakat Online Terintegrasi) adalah aplikasi yang digunakan untuk melakukan survei kepuasan masyarakat terhadap layanan publik secara online. Sistem ini membantu instansi pemerintah dalam mengumpulkan, mengelola, dan menganalisis umpan balik masyarakat terhadap kualitas pelayanan.
+
+Melalui SIMASKOT, pemerintah dapat memantau tingkat kepuasan, mengidentifikasi aspek yang perlu ditingkatkan, serta menyusun laporan evaluasi layanan secara lebih cepat dan akurat.
+
+**Keywords:** simaskot, survei kepuasan masyarakat, survei online, layanan publik, evaluasi layanan
+
+---
+
+### KB-010: BUKAASET (Buku Aset Daerah Digital)
+
+**Pertanyaan:**
+
+- Apa itu BUKAASET?
+- BUKAASET untuk apa?
+- Bagaimana cara melihat buku aset daerah?
+- Di mana saya bisa mengakses data aset daerah?
+
+**Jawaban:**
+BUKAASET adalah aplikasi Buku Aset Daerah digital yang dikelola oleh BPKAD Provinsi NTB. Aplikasi ini menyediakan informasi terkait inventaris dan aset milik Pemerintah Daerah dalam format digital yang mudah diakses, ditelusuri, dan dikelola.
+
+Melalui BUKAASET, pengguna (perangkat daerah atau pihak berwenang lainnya) dapat:
+
+- Melihat daftar aset daerah beserta detailnya
+- Memantau status dan lokasi aset
+- Membantu proses penatausahaan, pengendalian, dan pelaporan aset
+
+Akses ke BUKAASET umumnya disediakan melalui portal resmi Pemerintah Provinsi NTB atau sistem yang dikelola BPKAD, sesuai dengan hak akses dan kewenangan pengguna.
+
+**Keywords:** bukaaset, buku aset, aset daerah, inventaris, bpkad
+
+---
+
+### KB-011: PLUT (Pusat Layanan Usaha Terpadu)
+
+**Pertanyaan:**
+
+- Apa itu PLUT?
+- PLUT untuk apa?
+- PLUT bisa membantu apa saja untuk UMKM?
+- Bagaimana cara mengurus izin usaha melalui PLUT?
+
+**Jawaban:**
+PLUT (Pusat Layanan Usaha Terpadu) adalah layanan pendampingan dan konsultasi bagi pelaku usaha dan UMKM di Provinsi NTB. Melalui PLUT, pelaku usaha dapat memperoleh berbagai bantuan, antara lain:
+
+- Informasi dan konsultasi perizinan usaha
+- Pendampingan penyusunan dan pengurusan dokumen usaha
+- Informasi akses pembiayaan dan permodalan
+- Pelatihan dan pendampingan manajemen serta pengembangan usaha
+- Konsultasi pemasaran dan pengembangan jaringan usaha
+
+PLUT berperan sebagai pusat layanan satu pintu (one-stop service) untuk mempermudah masyarakat memulai, mengurus legalitas, dan mengembangkan usaha di NTB.
+
+**Keywords:** plut, layanan usaha, bantuan umkm, konsultasi usaha, pendampingan usaha, perizinan usaha
+
+---
+
+## 📋 KATEGORI 3: KONTAK & LOKASI
+
+### KB-012: Kontak Pemerintah Provinsi NTB
+
+**Pertanyaan:**
+
+- Bagaimana cara menghubungi Pemerintah Provinsi NTB?
+- Nomor telepon berapa?
+- Alamat email apa?
+- Di mana alamat kantornya?
+
+**Jawaban:**
+Anda dapat menghubungi Pemerintah Provinsi NTB melalui:
+
+📍 Alamat: Jl. Pejanggik No. 6, Mataram, Nusa Tenggara Barat
+📞 Telepon: (0370) 621111
+📧 Email: info@ntbprov.go.id
+🌐 Website: https://www.ntbprov.go.id
+
+Jam operasional layanan kantor:
+
+- Senin – Kamis: 08.00 – 16.00 WITA
+- Jumat: 08.00 – 16.30 WITA
+- Istirahat: 12.00 – 13.00 WITA
+
+Catatan: Beberapa layanan online pada portal resmi dapat diakses 24 jam.
+
+**Keywords:** kontak, hubungi, telepon, email, alamat, kantor pemprov, contact
+
+---
+
+### KB-013: Kontak dan Layanan Dinas Kominfotik NTB
+
+**Pertanyaan:**
+
+- Kontak Diskominfotik?
+- Bagaimana hubungi Dinas Kominfotik Provinsi NTB?
+- Nomor telepon Diskominfo?
+- Apa saja tugas Diskominfotik NTB?
+- Layanan digital apa yang dikelola Kominfotik?
+- Fungsi Dinas Kominfotik Prov NTB apa saja?
+
+**Jawaban:**
+Dinas Komunikasi, Informatika, dan Statistik (Diskominfotik) Provinsi Nusa Tenggara Barat adalah perangkat daerah yang bertanggung jawab dalam pengelolaan komunikasi publik, teknologi informasi dan komunikasi (TIK), serta pengelolaan data dan statistik di lingkungan Pemerintah Provinsi NTB.
+
+**Kontak dan Alamat:**
+
+📍 Alamat: Jl. Langko No. 52, Mataram, Nusa Tenggara Barat
+📞 Telepon: (0370) 622111
+📧 Email: diskominfo@ntbprov.go.id
+🌐 Website resmi: dapat diakses melalui portal Pemerintah Provinsi NTB
+
+**Tugas dan Fungsi Utama Diskominfotik:**
+
+- Mengembangkan dan mengelola infrastruktur TIK pemerintah provinsi
+- Menyediakan dan mengelola layanan jaringan, server, dan pusat data
+- Mengelola sistem dan aplikasi layanan digital pemerintahan
+- Mengelola informasi publik dan komunikasi pemerintahan
+- Mendukung keterbukaan informasi publik bersama PPID utama provinsi
+- Mengelola data dan statistik untuk mendukung perencanaan pembangunan
+- Memberikan dukungan teknis dan pendampingan TIK kepada perangkat daerah
+
+**Layanan dan Sistem yang Dikelola (antara lain):**
+
+- Portal layanan digital Provinsi NTB
+- DDSS (Digital Document Signature System) untuk tanda tangan dokumen elektronik
+- ESENSI (Elektronik Presensi NTB) untuk presensi ASN
+- Berbagai aplikasi dan sistem lain yang digunakan perangkat daerah di lingkungan Pemprov NTB
+- Layanan TIK (pengembangan aplikasi, infrastruktur, keamanan siber, dan dukungan teknis)
+
+**Jenis Layanan yang Dapat Diminta ke Diskominfotik:**
+
+- Konsultasi dan pengembangan aplikasi/sistem informasi
+- Permintaan dukungan infrastruktur jaringan dan server
+- Bantuan teknis terkait gangguan layanan TIK dan sistem aplikasi
+- Dukungan keamanan informasi dan tata kelola TIK
+- Koordinasi dan dukungan penyediaan data/statistik sektoral melalui Satu Data NTB
+- Pendampingan pemanfaatan layanan digital pemerintah provinsi
+
+Untuk permohonan layanan atau konsultasi, perangkat daerah dan masyarakat dapat menghubungi Diskominfotik melalui telepon, email resmi, atau melalui kanal layanan yang tersedia di portal Provinsi NTB.
+
+**Keywords:** diskominfo, diskominfotik, dinas komunikasi, kominfo ntb, teknologi informasi, layanan tik, data statistik, layanan digital, it service, kominfo prov ntb
+
+---
+
+### KB-014: Kontak dan Informasi BPKAD Provinsi NTB
+
+**Pertanyaan:**
+
+- Kontak BPKAD?
+- Bagaimana hubungi BPKAD?
+- Alamat BPKAD NTB?
+- BPKAD itu apa?
+- Apa tugas dan fungsi BPKAD NTB?
+- Aplikasi apa saja yang dikelola BPKAD?
+
+**Jawaban:**
+BPKAD (Badan Pengelola Keuangan dan Aset Daerah) Provinsi Nusa Tenggara Barat adalah perangkat daerah yang bertugas mengelola keuangan daerah dan mengelola aset/barang milik daerah secara tertib, efisien, efektif, transparan, dan akuntabel.
+
+**Kontak dan Alamat BPKAD NTB:**
+
+📍 Alamat: Jl. Pejanggik No. 6, Mataram, Nusa Tenggara Barat
+📞 Telepon: (0370) 621111
+📧 Email: bpkad@ntbprov.go.id
+🌐 Website: dapat diakses melalui portal resmi Pemerintah Provinsi NTB
+
+**Tugas dan Fungsi Utama BPKAD:**
+
+- Menyusun dan melaksanakan kebijakan pengelolaan keuangan daerah
+- Mengelola anggaran pendapatan dan belanja daerah (APBD)
+- Mengelola kas daerah dan penatausahaan keuangan perangkat daerah
+- Mengelola aset/barang milik daerah (perencanaan, pemanfaatan, pengamanan, dan penghapusan)
+- Menyusun laporan keuangan pemerintah daerah
+- Melakukan pembinaan dan pengawasan pengelolaan keuangan dan aset pada perangkat daerah
+
+**Layanan dan Sistem yang Dikelola (antara lain):**
+
+- **SPAB (Sistem Pengelolaan Aset Barang):** untuk pengelolaan dan pemantauan aset/barang milik daerah secara digital
+- **BUKAASET:** buku aset daerah digital yang memuat informasi inventaris dan aset pemerintah daerah
+- **SIMASKOT:** sistem informasi survei kepuasan masyarakat yang membantu evaluasi layanan publik
+
+Melalui sistem-sistem tersebut, BPKAD mendukung transparansi, akuntabilitas, dan optimalisasi pemanfaatan keuangan serta aset daerah di Provinsi NTB.
+
+**Keywords:** bpkad, keuangan, aset, badan pengelola, pengelolaan keuangan daerah, barang milik daerah, spab, bukaaset, simaskot
+
+---
+
+### KB-015: Kontak Bagian Hukum
+
+**Pertanyaan:**
+
+- Kontak Bagian Hukum?
+- Bagaimana hubungi Bagian Hukum?
+- Alamat Bagian Hukum?
+
+**Jawaban:**
+Bagian Hukum Sekretariat Daerah Provinsi NTB:
+
+📍 Alamat: Kompleks Kantor Gubernur NTB, Mataram
+📞 Telepon: (0370) 621111
+📧 Email: hukum@ntbprov.go.id
+
+Bagian Hukum mengelola dokumentasi dan informasi hukum daerah melalui JDIH.
+
+**Keywords:** bagian hukum, legal, peraturan, hukum
+
+---
+
+## 📋 KATEGORI 4: INFORMASI ADMINISTRASI
+
+### KB-016: Jam Operasional Layanan Pemprov NTB
+
+**Pertanyaan:**
+
+- Jam berapa layanan buka?
+- Kapan jam operasional?
+- Jam kerja kantor Pemerintah Provinsi NTB?
+- Jam pelayanan hari Jumat bagaimana?
+- Apakah layanan online bisa diakses 24 jam?
+
+**Jawaban:**
+Jam operasional umum layanan Pemerintah Provinsi NTB (kantor sekretariat dan sebagian besar perangkat daerah) adalah:
+
+- **Senin – Kamis:** 08.00 – 16.00 WITA
+- **Jumat:** 08.00 – 16.30 WITA
+- **Istirahat:** 12.00 – 13.00 WITA
+
+Catatan:
+- Jam operasional dapat sedikit berbeda untuk masing-masing OPD/unit layanan (misalnya rumah sakit, layanan tertentu, atau layanan dengan sistem shift).
+- Beberapa **layanan online** pada portal resmi Pemerintah Provinsi NTB dapat diakses **24 jam sehari, 7 hari seminggu (24/7)** tanpa terikat jam kantor.
+- Untuk jam pelayanan khusus (seperti loket tertentu, layanan kesehatan, pendidikan, dan lain-lain), silakan lihat informasi pada halaman layanan terkait atau hubungi kontak resmi instansi yang bersangkutan.
+
+**Keywords:** jam kerja, jam layanan, jam operasional, buka, tutup, jam kantor, waktu pelayanan
+
+---
+
+### KB-017: Persyaratan Layanan
+
+**Pertanyaan:**
+
+- Dokumen apa saja yang diperlukan?
+- Apa persyaratan untuk layanan?
+- Berkas apa yang harus disiapkan?
+- Syarat umum untuk mengurus layanan apa saja?
+- Apakah ada perbedaan persyaratan untuk layanan online dan offline?
+
+**Jawaban:**
+Persyaratan setiap layanan pada umumnya terdiri dari:
+
+1. **Identitas pemohon**
+   - KTP/Identitas diri
+   - Kartu Keluarga (jika diperlukan)
+2. **Dokumen pendukung**
+   - Formulir permohonan yang telah diisi
+   - Surat keterangan/rujukan/rekomendasi (jika dipersyaratkan)
+   - Dokumen lain sesuai jenis layanan (misalnya: ijazah, akta, izin sebelumnya, dan sebagainya)
+3. **Dokumen keanggotaan/penjamin (jika ada)**
+   - Kartu BPJS/asuransi
+   - Surat kuasa (jika diurus oleh perwakilan)
+
+Untuk mengetahui persyaratan lengkap dan terbaru untuk **setiap layanan tertentu**, Anda dapat:
+
+1. Membuka halaman detail layanan pada portal ini
+2. Mengunduh atau membaca petunjuk teknis/standar pelayanan (jika tersedia)
+3. Menghubungi instansi penyelenggara layanan melalui kontak resmi
+4. Datang langsung ke loket/informasi instansi yang bersangkutan
+
+Setiap layanan dapat memiliki persyaratan khusus yang berbeda-beda sesuai dengan ketentuan peraturan dan jenis layanannya. Pastikan selalu memeriksa informasi terbaru sebelum mengajukan permohonan.
+
+**Keywords:** persyaratan, dokumen, syarat, berkas, kelengkapan, ketentuan layanan, dokumen pendukung
+
+---
+
+## 📋 KATEGORI 5: PROSEDUR & PERSYARATAN
+
+### KB-018: Cara Mengakses Layanan
+
+**Pertanyaan:**
+
+- Bagaimana cara mengakses layanan?
+- Cara mendaftar layanan?
+- Prosedur akses layanan?
+- Bagaimana menggunakan layanan di Portal NTB?
+
+**Jawaban:**
+Untuk mengakses layanan di Portal NTB secara umum:
+
+1. Buka portal resmi Pemerintah Provinsi NTB melalui browser.
+2. Telusuri menu atau kategori layanan yang tersedia.
+3. Pilih layanan yang Anda butuhkan.
+4. Baca terlebih dahulu informasi deskripsi, persyaratan, dan prosedurnya.
+5. Jika layanan dapat diajukan secara online, ikuti petunjuk pada halaman layanan tersebut.
+
+Untuk layanan yang memerlukan akun:
+
+1. Lakukan registrasi/membuat akun terlebih dahulu (lihat panduan registrasi pada KB-019).
+2. Login menggunakan akun yang sudah terdaftar.
+3. Lengkapi formulir dan unggah dokumen yang dipersyaratkan.
+4. Kirim/submit permohonan dan simpan bukti pengajuan.
+5. Pantau status permohonan Anda melalui portal atau kontak layanan terkait.
+
+Jika Anda mengalami kendala (misalnya bingung memilih layanan, kesulitan akses, atau masalah teknis), Anda dapat:
+
+- Menghubungi instansi penyelenggara layanan melalui kontak resmi yang tertera.
+- Menghubungi call center Pemerintah Provinsi NTB di nomor: (0370) 621111.
+- Datang langsung ke loket/informasi instansi yang bersangkutan.
+
+**Keywords:** cara akses, prosedur, menggunakan layanan, akses portal, panduan layanan
+
+---
+
+### KB-019: Cara Registrasi/Pendaftaran Akun (SSO NTBProv)
+
+**Pertanyaan:**
+
+- Bagaimana cara mendaftar?
+- Cara membuat akun?
+- Prosedur registrasi?
+- Bagaimana cara daftar di Portal NTB?
+- Apa itu SSO NTBProv?
+- Apakah akun sudah terintegrasi dengan layanan lain?
+
+**Jawaban:**
+Portal NTB menggunakan **SSO NTBProv (Single Sign-On)** sebagai sistem akun terpusat. Dengan satu akun SSO NTBProv, Anda dapat mengakses berbagai layanan/aplikasi Pemerintah Provinsi NTB yang sudah terintegrasi, tanpa perlu membuat akun baru di setiap layanan.
+
+**Cara Registrasi Akun SSO NTBProv (secara umum):**
+
+1. Buka halaman login pada Portal NTB atau layanan yang akan digunakan.
+2. Pilih opsi **"Daftar"**, **"Registrasi"**, atau **"Buat Akun SSO NTBProv"** (jika tersedia).
+3. Isi formulir registrasi dengan data yang benar, misalnya:
+   - Nama lengkap
+   - Nomor KTP/identitas (jika diminta)
+   - Email aktif
+   - Nomor telepon/HP
+   - Username dan password
+4. Baca dan setujui syarat dan ketentuan penggunaan.
+5. Kirim formulir untuk membuat akun.
+
+**Verifikasi Akun:**
+
+1. Cek email atau SMS yang dikirim sistem SSO NTBProv.
+2. Ikuti petunjuk verifikasi (memasukkan kode atau mengklik tautan).
+3. Setelah verifikasi berhasil, akun SSO NTBProv akan aktif.
+
+**Akun Terintegrasi:**
+
+- Akun SSO NTBProv yang sudah aktif dapat digunakan untuk login ke berbagai layanan yang mendukung SSO (misalnya aplikasi/aplikasi tertentu di Portal NTB) tanpa registrasi ulang.
+- Jika suatu layanan sudah terintegrasi dengan SSO NTBProv, di halaman login biasanya tersedia tombol/opsi **"Login dengan SSO NTBProv"**.
+- Data dasar akun (seperti nama dan email) akan otomatis dikenali oleh layanan yang terintegrasi sesuai pengaturan masing-masing sistem.
+
+**Setelah Akun Aktif:**
+
+1. Login ke Portal NTB atau layanan terkait menggunakan username/email dan password SSO NTBProv.
+2. Jika diminta, lengkapi profil atau data tambahan pada masing-masing layanan.
+3. Simpan informasi login Anda dengan aman dan jangan membagikan password kepada orang lain.
+
+---
+
+## 📋 KATEGORI 6: WILAYAH & DEMOGRAFI
+
+### KB-020: Kabupaten/Kota di NTB
+
+**Pertanyaan:**
+
+- Berapa kabupaten di NTB?
+- Apa saja kabupaten/kota di NTB?
+- Wilayah NTB ada apa saja?
+
+**Jawaban:**
+Provinsi Nusa Tenggara Barat (NTB) terdiri dari **8 kabupaten** dan **2 kota** yang tersebar di dua pulau utama, yaitu Pulau Lombok dan Pulau Sumbawa.
+
+**Pulau Lombok:**
+
+1. Kabupaten Lombok Barat
+2. Kabupaten Lombok Tengah
+3. Kabupaten Lombok Timur
+4. Kabupaten Lombok Utara
+5. Kota Mataram
+
+**Pulau Sumbawa:**
+
+6. Kabupaten Sumbawa
+7. Kabupaten Sumbawa Barat
+8. Kabupaten Dompu
+9. Kabupaten Bima
+10. Kota Bima
+
+Total: **8 Kabupaten** dan **2 Kota**.
+Wilayah-wilayah ini menjadi bagian administrasi Provinsi NTB dengan karakteristik potensi yang beragam, seperti pariwisata, pertanian, perikanan, dan jasa.
+
+**Keywords:** kabupaten, kota, wilayah, daerah, ntb, lombok, sumbawa, jumlah kabupaten
+
+---
+
+### KB-021: Kabupaten di Pulau Lombok
+
+**Pertanyaan:**
+
+- Kabupaten apa saja di Lombok?
+- Berapa kabupaten di Lombok?
+- Wilayah Lombok?
+- Ibu kota kabupaten di Pulau Lombok di mana saja?
+
+**Jawaban:**
+Pulau Lombok memiliki **4 kabupaten** dan **1 kota**:
+
+1. Kabupaten Lombok Barat (Ibu kota: **Gerung**)
+2. Kabupaten Lombok Tengah (Ibu kota: **Praya**)
+3. Kabupaten Lombok Timur (Ibu kota: **Selong**)
+4. Kabupaten Lombok Utara (Ibu kota: **Tanjung**)
+5. Kota Mataram (Ibu kota Provinsi NTB dan pusat pemerintahan/pelayanan utama)
+
+Pulau Lombok dikenal dengan potensi pariwisata (seperti Mandalika dan Gili), pertanian, dan jasa, yang tersebar di masing-masing kabupaten/kota tersebut.
+
+**Keywords:** lombok, kabupaten lombok, wilayah lombok, kota mataram, ibu kota kabupaten lombok
+
+---
+
+### KB-022: Kabupaten di Pulau Sumbawa
+
+**Pertanyaan:**
+
+- Kabupaten apa saja di Sumbawa?
+- Berapa kabupaten di Sumbawa?
+- Wilayah Sumbawa?
+- Ibu kota kabupaten di Pulau Sumbawa di mana saja?
+
+**Jawaban:**
+Pulau Sumbawa memiliki **4 kabupaten** dan **1 kota**:
+
+1. Kabupaten Sumbawa (Ibu kota: **Sumbawa Besar**)
+2. Kabupaten Sumbawa Barat (Ibu kota: **Taliwang**)
+3. Kabupaten Dompu (Ibu kota: **Dompu**)
+4. Kabupaten Bima (Ibu kota: **Woha**)
+5. Kota Bima (pusat pelayanan dan perdagangan di wilayah timur Pulau Sumbawa)
+
+Wilayah Pulau Sumbawa memiliki potensi di bidang peternakan, pertanian, perikanan, pariwisata, dan pertambangan yang tersebar di masing-masing kabupaten/kota.
+
+**Keywords:** sumbawa, kabupaten sumbawa, wilayah sumbawa, kota bima, ibu kota kabupaten sumbawa
+
+---
+
+## 📋 KATEGORI 7: INFORMASI UMUM
+
+### KB-023: Tentang Provinsi NTB
+
+**Pertanyaan:**
+
+- Apa itu NTB?
+- Ceritakan tentang NTB?
+- Informasi tentang Nusa Tenggara Barat?
+- NTB ada di pulau mana?
+- Apa keunggulan dan potensi NTB?
+
+**Jawaban:**
+Nusa Tenggara Barat (NTB) adalah salah satu provinsi di Indonesia yang terletak di bagian tengah Kepulauan Nusa Tenggara, di antara Provinsi Bali (di sebelah barat) dan Nusa Tenggara Timur (di sebelah timur). NTB terdiri dari dua pulau utama, yaitu Pulau Lombok dan Pulau Sumbawa, serta pulau-pulau kecil di sekitarnya.
+
+**Informasi Umum:**
+
+- Ibu Kota Provinsi: **Kota Mataram**
+- Luas Wilayah: **±20.153,15 km²**
+- Jumlah Penduduk: **±5,3 juta jiwa** (perkiraan, dapat berubah sesuai data terbaru)
+- Terdiri dari: **8 Kabupaten** dan **2 Kota**
+- Pulau Utama: **Lombok** dan **Sumbawa**
+- Zona Waktu: **WITA (Waktu Indonesia Tengah)**
+- Letak: Bagian tengah gugusan Kepulauan Nusa Tenggara, di wilayah Indonesia bagian tengah
+
+**Pembagian Wilayah Administrasi:**
+
+- Pulau Lombok:
+  - Kabupaten Lombok Barat
+  - Kabupaten Lombok Tengah
+  - Kabupaten Lombok Timur
+  - Kabupaten Lombok Utara
+  - Kota Mataram (sekaligus ibu kota provinsi)
+- Pulau Sumbawa:
+  - Kabupaten Sumbawa
+  - Kabupaten Sumbawa Barat
+  - Kabupaten Dompu
+  - Kabupaten Bima
+  - Kota Bima
+
+**Potensi dan Keunggulan Daerah:**
+
+- **Pariwisata:**
+  - Destinasi unggulan seperti Mandalika, Gili Trawangan, Gili Air, Gili Meno, pantai-pantai di Lombok, hingga destinasi bahari dan alam di Pulau Sumbawa.
+  - Wisata alam dan petualangan, seperti Gunung Rinjani, pantai berpasir putih, selancar (surfing), dan wisata bahari.
+- **Pertanian dan Perkebunan:**
+  - Komoditas padi, jagung, kedelai, hortikultura, serta berbagai tanaman perkebunan.
+- **Perikanan dan Kelautan:**
+  - Potensi perikanan tangkap dan budidaya di wilayah pesisir dan laut sekitar Lombok dan Sumbawa.
+- **Peternakan dan Pertambangan:**
+  - Potensi peternakan (sapi, kambing, dan lainnya) serta sumber daya tambang di beberapa wilayah Pulau Sumbawa.
+- **Ekonomi Kreatif dan UMKM:**
+  - Kerajinan tangan, tenun tradisional, kuliner khas, serta produk lokal lainnya yang berkembang di berbagai kabupaten/kota.
+
+**Peran dan Posisi NTB di Kawasan:**
+
+- Menjadi salah satu pintu gerbang pariwisata Indonesia di kawasan tengah.
+- Menjadi pusat aktivitas ekonomi, perdagangan, dan jasa di sekitar wilayah Nusa Tenggara.
+- Mendukung konektivitas antar pulau di Indonesia bagian tengah melalui jalur laut dan udara.
+
+Untuk informasi lebih rinci mengenai data statistik, pembangunan, dan program pemerintah di NTB, masyarakat dapat mengakses portal resmi Pemerintah Provinsi NTB dan berbagai platform layanan digital yang tersedia.
+
+**Keywords:** ntb, nusa tenggara barat, provinsi ntb, tentang ntb, informasi umum ntb, lombok, sumbawa, jumlah penduduk ntb, luas wilayah ntb
+
+---
+### KB-024: Tentang Portal NTB (digihub.ntbprov.go.id)
+
+**Pertanyaan:**
+
+- Apa itu Portal NTB?
+- Untuk apa portal ini?
+- Apa itu portal layanan terintegrasi NTB?
+- Portal NTB ada di alamat website mana?
+
+**Jawaban:**
+Portal NTB adalah portal layanan terintegrasi milik Pemerintah Provinsi Nusa Tenggara Barat yang menjadi pintu masuk utama (single access) ke berbagai layanan digital pemerintah daerah. Melalui portal ini, masyarakat, pelaku usaha, dan perangkat daerah dapat mengakses beragam aplikasi, informasi, dan layanan publik secara lebih mudah dan terarah.
+
+Saat ini, portal layanan terintegrasi ini telah diimplementasikan dan dapat diakses melalui domain resmi:
+
+**🌐 https://digihub.ntbprov.go.id**
+
+Portal ini dirancang sebagai _hub_ (penghubung) layanan digital pemerintah Provinsi NTB agar pengguna tidak perlu mengingat banyak alamat aplikasi, cukup melalui satu portal untuk kemudian diarahkan ke layanan yang dibutuhkan.
+
+**Fitur Utama Portal:**
+
+- Akses ke berbagai aplikasi dan sistem layanan pemerintah (misalnya: DDSS, JDIH, LESTARI, SIMASKOT, ESENSI, dan aplikasi lain yang dikelola perangkat daerah)
+- Informasi pemerintahan, program, dan kebijakan Provinsi NTB
+- Layanan publik online dan tautan ke berbagai formulir/permohonan digital
+- Informasi kontak, alamat, dan kanal layanan instansi pemerintah
+- Berita, pengumuman resmi, dan informasi kegiatan pemerintah daerah
+- Integrasi ke layanan data dan informasi publik seperti Satu Data NTB dan PPID (jika tersedia/terkait)
+
+Portal ini dikelola oleh Dinas Komunikasi, Informatika, dan Statistik (Diskominfotik) Provinsi NTB sebagai bagian dari upaya transformasi digital dan peningkatan kualitas layanan publik di lingkungan Pemerintah Provinsi NTB.
+
+**Keywords:** portal ntb, portal layanan terintegrasi, digihub, digihub ntb, website ntb, layanan digital, portal layanan ntb
+
+---
+
+### KB-025: Kebijakan Privasi
+
+**Pertanyaan:**
+
+- Bagaimana kebijakan privasi?
+- Apakah data saya aman?
+- Privasi data di Portal NTB?
+- Bagaimana perlindungan data di digihub.ntbprov.go.id?
+
+**Jawaban:**
+Pemerintah Provinsi NTB berkomitmen melindungi privasi dan keamanan data pengguna dalam setiap layanan digital yang terhubung melalui portal, termasuk yang diakses melalui domain **digihub.ntbprov.go.id**, sesuai dengan peraturan perundang-undangan yang berlaku di Indonesia.
+
+**Prinsip Perlindungan Data:**
+
+- Data pribadi pengguna dijaga kerahasiaannya dan dikelola secara hati-hati
+- Data tidak dibagikan kepada pihak ketiga tanpa dasar hukum atau persetujuan yang sah
+- Data hanya digunakan untuk keperluan penyelenggaraan layanan, peningkatan kualitas layanan, dan kepentingan administrasi yang sah
+- Sistem menerapkan langkah-langkah pengamanan berlapis sesuai standar keamanan TIK yang diterapkan pemerintah daerah
+- Akses ke data dibatasi hanya untuk petugas yang berwenang dan sesuai dengan tugas/fungsinya
+
+Pengguna tetap disarankan untuk menjaga kerahasiaan akun masing-masing (username, password, dan data sensitif lain) serta mengakses portal melalui jaringan dan perangkat yang aman.
+
+Untuk informasi lengkap dan ketentuan rinci mengenai pengelolaan data dan privasi, silakan membaca dokumen kebijakan privasi yang tersedia di portal atau menghubungi kontak resmi yang tercantum di website Pemerintah Provinsi NTB.
+
+**Keywords:** privasi, keamanan data, privacy policy, perlindungan data, kebijakan privasi, data pribadi, keamanan informasi
+
+---
+
+### KB-026: Sapaan/Greeting
+
+**Pertanyaan:**
+
+- Halo
+- Hi
+- Hai
+- Selamat pagi
+- Selamat siang
+- Selamat sore
+- Selamat malam
+
+**Jawaban:**
+Halo, selamat datang di Portal Layanan NTB.
+
+Saya adalah asisten virtual yang siap membantu Anda mendapatkan informasi seputar layanan Pemerintah Provinsi Nusa Tenggara Barat (NTB).
+
+Anda dapat menanyakan berbagai hal, seperti:
+
+- Jenis dan daftar layanan yang tersedia
+- Aplikasi dan sistem yang dikelola Pemerintah Provinsi NTB
+- Kontak dan alamat instansi/OPD terkait
+- Informasi umum tentang wilayah dan pemerintahan NTB
+- Prosedur, persyaratan, serta cara mengakses layanan
+- Dan informasi relevan lainnya
+
+Silakan tuliskan pertanyaan Anda dengan jelas agar saya dapat membantu dengan lebih tepat.
+
+**Keywords:** halo, hai, hi, selamat pagi, selamat siang, selamat sore, selamat malam, greeting, sapaan
+
+---
+
+### KB-027: Terima Kasih
+
+**Pertanyaan:**
+
+- Terima kasih
+- Thanks
+- Makasih
+- Thank you
+
+**Jawaban:**
+Sama-sama! Senang bisa membantu Anda. 😊
+
+Jika ada pertanyaan lain tentang layanan Pemerintah Provinsi NTB, jangan ragu untuk bertanya kembali.
+
+Anda juga bisa menghubungi kami di:
+📞 (0370) 621111
+📧 info@ntbprov.go.id
+
+Semoga harimu menyenangkan!
+
+**Keywords:** terima kasih, thanks, makasih, thank you
+
+---
+
+### KB-028: Informasi Gubernur NTB
+
+**Pertanyaan:**
+
+- Siapa Gubernur NTB?
+- Gubernur NTB siapa?
+- Pimpinan NTB?
+- Siapa Wakil Gubernur NTB?
+- Masa jabatan Gubernur NTB sampai kapan?
+
+**Jawaban:**
+Gubernur dan Wakil Gubernur Provinsi Nusa Tenggara Barat (NTB) merupakan kepala dan wakil kepala daerah yang memimpin penyelenggaraan pemerintahan di tingkat provinsi.
+
+Karena data pimpinan daerah dapat berubah (misalnya setelah pemilihan kepala daerah, pelantikan, atau penunjukan penjabat), untuk memastikan informasi nama, jabatan, dan masa jabatan yang paling **mutakhir**, silakan cek langsung melalui kanal resmi berikut:
+
+- 🌐 Website resmi Pemerintah Provinsi NTB: **https://www.ntbprov.go.id**
+- 📞 Telepon layanan informasi: **(0370) 621111**
+- 📧 Email: **info@ntbprov.go.id**
+- 📱 Kanal resmi/media sosial Pemerintah Provinsi NTB (tertaut di website resmi)
+
+**Tugas dan Peran Utama Gubernur/Wakil Gubernur NTB (secara umum):**
+
+- Memimpin penyelenggaraan pemerintahan daerah Provinsi NTB sesuai peraturan perundang-undangan
+- Merumuskan dan melaksanakan kebijakan pembangunan daerah (misalnya melalui RPJMD dan program prioritas daerah)
+- Mengkoordinasikan perangkat daerah (OPD) di lingkungan Pemerintah Provinsi NTB
+- Menjaga ketertiban umum, keamanan, dan ketenteraman masyarakat bersama instansi terkait
+- Mengelola hubungan kerja sama dengan pemerintah pusat, kabupaten/kota, dan pihak lain
+- Mewakili Pemerintah Provinsi NTB dalam berbagai forum resmi pemerintahan, pembangunan, dan layanan publik
+
+Untuk dokumen resmi terkait visi, misi, dan program kerja Gubernur/Wakil Gubernur, Anda dapat merujuk pada:
+
+- Dokumen **RPJMD Provinsi NTB**
+- Dokumen perencanaan lainnya yang tersedia di portal resmi Pemerintah Provinsi NTB
+
+**Keywords:** gubernur, wakil gubernur, pimpinan, kepala daerah, pemimpin provinsi, gubernur ntb, wakil gubernur ntb
+
+---
+
+### KB-029: Visi Misi NTB
+
+**Pertanyaan:**
+
+- Apa visi misi NTB?
+- Visi misi Pemprov NTB?
+- Tujuan pembangunan NTB?
+- Apa tujuan dan arah pembangunan jangka panjang NTB?
+
+**Jawaban:**
+Visi, misi, dan tujuan pembangunan Provinsi Nusa Tenggara Barat (NTB) ditetapkan melalui dokumen perencanaan resmi pemerintah daerah dan dapat mengalami penyesuaian seiring dengan periode kepemimpinan dan kebijakan terbaru.
+
+Untuk mendapatkan informasi yang paling **mutakhir dan akurat** mengenai visi, misi, serta arah pembangunan NTB, silakan mengakses kanal resmi berikut:
+
+- 🌐 Website resmi Pemerintah Provinsi NTB: **https://www.ntbprov.go.id**
+- 📄 Portal dokumen perencanaan daerah (RPJMD, RKPD, dan dokumen terkait) yang terhubung di website resmi
+- 📞 Telepon layanan informasi Pemprov NTB: **(0370) 621111**
+- 📧 Email: **info@ntbprov.go.id**
+
+Melalui kanal tersebut, Anda dapat:
+
+- Membaca ringkasan visi dan misi pemerintah daerah yang sedang menjabat
+- Mengunduh dokumen **RPJMD (Rencana Pembangunan Jangka Menengah Daerah)** dan dokumen perencanaan lain yang relevan
+- Mengetahui prioritas pembangunan di berbagai sektor (pendidikan, kesehatan, infrastruktur, ekonomi, lingkungan, dan lain-lain)
+
+Tambahkan ini juga: untuk keperluan kajian, penelitian, atau perencanaan program, disarankan menggunakan dokumen resmi terbaru agar analisis dan perencanaan Anda selaras dengan arah kebijakan Pemerintah Provinsi NTB.
+
+**Keywords:** visi, misi, tujuan, pembangunan, rpjmd, visi misi ntb, arah pembangunan
+
+---
+
+## 📋 KATEGORI 8: BANTUAN TEKNIS
+
+### KB-030: Bantuan Teknis
+
+**Pertanyaan:**
+
+- Saya butuh bantuan teknis
+- Ada masalah teknis
+- Kendala teknis
+- Technical support
+
+**Jawaban:**
+Untuk bantuan teknis terkait layanan digital Portal NTB, Anda dapat menghubungi:
+
+**Dinas Kominfo NTB:**
+📞 Telepon: (0370) 622111
+📧 Email: diskominfo@ntbprov.go.id
+⏰ Senin-Jumat: 08.00-16.00 WITA
+
+**Informasi yang perlu disiapkan:**
+
+- Jenis layanan yang bermasalah
+- Deskripsi masalah
+- Screenshot (jika ada)
+- Browser dan perangkat yang digunakan
+
+Tim teknis kami siap membantu menyelesaikan masalah Anda.
+
+**Keywords:** bantuan teknis, technical support, masalah teknis, kendala
+
+---
+
+### KB-031: Browser yang Didukung
+
+**Pertanyaan:**
+
+- Browser apa yang didukung?
+- Bisa pakai browser apa?
+- Kompatibilitas browser?
+
+**Jawaban:**
+Portal NTB mendukung browser modern berikut:
+
+✅ Google Chrome (versi terbaru)
+✅ Mozilla Firefox (versi terbaru)
+✅ Microsoft Edge (versi terbaru)
+✅ Safari (versi terbaru)
+
+**Rekomendasi:**
+
+- Gunakan versi browser terbaru untuk performa optimal
+- Aktifkan JavaScript
+- Hapus cache jika mengalami masalah
+- Gunakan koneksi internet yang stabil
+
+Jika mengalami masalah, coba update browser atau hubungi bantuan teknis.
+
+**Keywords:** browser, kompatibilitas, chrome, firefox, edge, safari
+
+---
+
+### KB-032: Lupa Password
+
+**Pertanyaan:**
+
+- Lupa password
+- Cara reset password
+- Bagaimana jika lupa kata sandi
+- Reset password
+
+**Jawaban:**
+Jika Anda lupa password, ikuti langkah berikut:
+
+1. Klik "Lupa Password" di halaman login
+2. Masukkan email atau username yang terdaftar
+3. Cek email untuk link reset password
+4. Klik link dan buat password baru
+5. Login dengan password baru
+
+**Jika tidak menerima email:**
+
+- Cek folder spam/junk
+- Pastikan email yang dimasukkan benar
+- Tunggu beberapa menit
+- Hubungi bantuan teknis jika masih bermasalah
+
+📞 Bantuan: (0370) 622111
+
+**Keywords:** lupa password, reset password, kata sandi, forgot password
+
+---
+
+### KB-033: Akses Mobile
+
+**Pertanyaan:**
+
+- Bisa diakses dari HP?
+- Ada aplikasi mobile?
+- Akses dari smartphone?
+
+**Jawaban:**
+Ya, Portal NTB dapat diakses melalui perangkat mobile (smartphone/tablet) menggunakan browser.
+
+**Cara Akses:**
+
+1. Buka browser di HP Anda (Chrome, Safari, dll)
+2. Kunjungi website Portal NTB
+3. Portal akan otomatis menyesuaikan tampilan (responsive)
+
+**Tips:**
+
+- Gunakan koneksi internet yang stabil
+- Update browser ke versi terbaru
+- Untuk pengalaman terbaik, gunakan layar landscape untuk beberapa fitur
+
+Saat ini belum ada aplikasi mobile khusus, namun website sudah mobile-friendly.
+
+**Keywords:** mobile, hp, smartphone, aplikasi, handphone
+
+---
+
+## 📋 KATEGORI 9: LAYANAN TIK
+
+### KB-034: Layanan TIK NTB
+
+**Pertanyaan:**
+
+- Apa itu Layanan TIK?
+- Layanan teknologi informasi apa saja?
+- Layanan TIK untuk apa?
+
+**Jawaban:**
+Layanan TIK (Teknologi Informasi dan Komunikasi) Provinsi NTB menyediakan berbagai layanan digital untuk mendukung pemerintahan dan pelayanan publik:
+
+**Layanan yang tersedia:**
+
+- Pengembangan aplikasi dan sistem
+- Infrastruktur jaringan dan server
+- Keamanan siber
+- Pelatihan TIK
+- Konsultasi teknologi
+- Dukungan teknis
+
+Dikelola oleh Dinas Komunikasi, Informatika, dan Statistik Provinsi NTB.
+
+📞 Kontak: (0370) 622111
+📧 Email: diskominfo@ntbprov.go.id
+
+**Keywords:** layanan tik, teknologi informasi, it service, digital
+
+---
+
+### KB-TBD: Pengajuan Domain NTBProv untuk OPD
+
+**Pertanyaan:**
+
+- Bagaimana cara mengajukan sub-domain ntbprov.go.id untuk dinas baru?
+- Apa syarat membuat alamat website resmi bagi instansi pemerintah di NTB?
+- Prosedur pendaftaran domain go.id lingkup Pemprov NTB
+
+**Jawaban:**
+Pengajuan sub-domain resmi lingkup Pemerintah Provinsi NTB dilakukan dengan mengajukan surat permohonan resmi dari Kepala OPD/Instansi yang ditujukan kepada Kepala Dinas Kominfotik NTB, melampirkan SK pendirian OPD, serta menunjuk kontak teknis pengelola website.
+
+**Keywords:** pengajuan domain, sub-domain ntbprov, website resmi opd, pendaftaran go.id, website dinas
+
+---
+
+### KB-TBD: Layanan Colocation Server di Data Center NTB
+
+**Pertanyaan:**
+
+- Apakah dinas bisa menitipkan server fisik di Diskominfotik NTB?
+- Syarat layanan hosting dan colocation server pemprov
+- Bagaimana prosedur sewa/titip server di Data Center NTB?
+
+**Jawaban:**
+Diskominfotik NTB menyediakan layanan Colocation Server di Data Center Provinsi bagi seluruh OPD lingkup Pemprov NTB secara gratis. OPD cukup mengajukan surat permohonan resmi dan mengisi formulir spesifikasi teknis server serta mematuhi SOP keamanan informasi yang berlaku.
+
+**Keywords:** colocation server, titip server, data center ntb, hosting pemprov, server fisik opd
+
+---
+
+### KB-TBD: Pengaduan Insiden Siber dan Keamanan Informasi (NTB-CSIRT)
+
+**Pertanyaan:**
+
+- Ke mana harus melapor jika website dinas diretas atau terkena deface?
+- Cara melaporkan indikasi serangan siber di lingkup Pemprov NTB
+- Kontak tim keamanan siber NTB-CSIRT
+
+**Jawaban:**
+Jika terjadi insiden keamanan siber seperti peretasan atau deface pada aset digital pemerintah, OPD diharapkan segera menghubungi Tim NTB-CSIRT (Computer Security Incident Response Team) melalui email resmi csirt@ntbprov.go.id atau melalui sistem tiket penanganan insiden TIK Diskominfotik untuk isolasi dan pemulihan cepat.
+
+**Keywords:** insiden siber, website diretas, deface web, ntb-csirt, keamanan informasi, serangan siber
+
+---
+
+### KB-TBD: Fasilitasi Jaringan Internet (Bandwidth) di Kantor Gubernur dan OPD
+
+**Pertanyaan:**
+
+- Siapa yang mengelola jaringan internet internet terintegrasi Pemprov NTB?
+- Bagaimana jika koneksi internet intranet di kantor dinas terputus?
+- Pengaduan gangguan jaringan astinet NTB
+
+**Jawaban:**
+Pengelolaan dan distribusi bandwidth internet terintegrasi di lingkungan Kantor Gubernur dan OPD Pemprov NTB dikelola oleh Bidang TIK Diskominfotik NTB. Gangguan jaringan dapat dilaporkan melalui grup koordinasi teknis TIK atau melalui meja layanan (helpdesk) infrastruktur.
+
+**Keywords:** jaringan internet, bandwidth opd, internet terputus, astinet ntb, gangguan jaringan, helpdesk tik
+---
+
+## 📋 KATEGORI 10: DATA & SATU DATA
+
+### KB-035: Apa itu Satu Data NTB?
+
+**Pertanyaan:**
+
+- Apa itu portal Satu Data NTB?
+- Dimana saya bisa melihat data resmi Pemerintah NTB?
+- Satu Data NTB untuk apa?
+
+**Jawaban:**
+Satu Data NTB adalah portal resmi yang menyediakan data dan statistik pembangunan di Provinsi Nusa Tenggara Barat.
+
+Melalui portal ini, masyarakat dapat melihat data seperti:
+
+- Data kependudukan
+- Pendidikan
+- Kesehatan
+- Ekonomi dan kemiskinan
+- Infrastruktur, dan lain-lain
+
+Data yang ditampilkan bersumber dari perangkat daerah resmi dan telah melalui proses verifikasi. Portal ini membantu masyarakat, peneliti, maupun pelaku usaha mendapatkan data yang akurat dan mudah diakses.
+
+**Keywords:** satu data, data ntb, statistik, data resmi, portal data, ddss, satudata
+
+---
+
+### KB-036: Cara Mengakses Data di Satu Data NTB
+
+**Pertanyaan:**
+
+- Bagaimana cara melihat data di portal Satu Data?
+- Apakah data NTB bisa diunduh?
+- Apakah data di Satu Data NTB gratis?
+
+**Jawaban:**
+Anda dapat mengakses data di Satu Data NTB melalui portal resmi Pemerintah Provinsi NTB.
+
+Secara umum, langkahnya sebagai berikut:
+
+1. Buka portal Satu Data NTB.
+2. Pilih kategori data yang Anda butuhkan (misalnya: kesehatan, pendidikan, ekonomi).
+3. Gunakan fitur pencarian atau filter untuk mempersempit hasil.
+4. Beberapa data dapat diunduh dalam bentuk tabel atau dokumen.
+
+Akses data di Satu Data NTB pada prinsipnya gratis. Untuk kebutuhan khusus, Anda dapat menghubungi instansi pengelola data terkait.
+
+**Keywords:** akses data, unduh data, portal satu data, data gratis, statistik ntb
+
+---
+
+### KB-TBD: Permohonan Data Sektoral Melalui Portal Satu Data NTB
+
+**Pertanyaan:**
+
+- Bagaimana cara meminta data publik NTB untuk keperluan penelitian?
+- Prosedur akses data sektoral di portal Satu Data NTB
+- Di mana bisa mengunduh dataset statistik sektoral NTB secara gratis?
+
+**Jawaban:**
+Masyarakat atau akademisi dapat mengakses dan mengunduh data sektoral secara terbuka melalui portal resminya di data.ntbprov.go.id. Jika data yang dicari membutuhkan detail khusus, pemohon dapat mengajukan formulir permintaan data yang tersedia di dalam portal tersebut.
+
+**Keywords:** data sektoral, satu data ntb, dataset statistik, unduh data gratis, penelitian data
+
+---
+
+### KB-TBD: Peran Diskominfotik NTB sebagai Walidata Daerah
+
+**Pertanyaan:**
+
+- Apa fungsi Diskominfotik dalam program Satu Data Indonesia tingkat provinsi?
+- Tugas Diskominfotik NTB sebagai Walidata
+- Siapa yang melakukan validasi data statistik sektoral dari OPD?
+
+**Jawaban:**
+Berdasarkan regulasi Satu Data, Dinas Kominfotik NTB bertindak sebagai Walidata Daerah tingkat provinsi yang bertugas mengumpulkan, memeriksa kesesuaian data, dan menyebarluaskan data yang disampaikan oleh Produsen Data (OPD-OPD teknis) setelah melalui proses validasi.
+
+**Keywords:** walidata daerah, kominfotik walidata, satu data indonesia, validasi data, produsen data
+
+---
+
+### KB-TBD: Cara OPD Mengirimkan Dataset ke Satu Data NTB
+
+**Pertanyaan:**
+
+- Bagaimana alur pengisian data bagi admin OPD di portal Satu Data?
+- Prosedur rilis dataset baru dari dinas ke walidata
+- Cara input data statistik sektoral tahunan oleh instansi
+
+**Jawaban:**
+Admin data dari masing-masing OPD bertindak sebagai Produsen Data yang wajib mengunggah dataset berkala mereka ke sistem Satu Data NTB menggunakan akun instansi yang telah divalidasi. Data yang masuk akan diperiksa struktur metadatanya oleh Diskominfotik sebelum dipublikasikan ke publik.
+
+**Keywords:** input dataset, admin opd, unggah data berkala, portal satu data, produsen data opd
+
+---
+
+## 📋 KATEGORI 11: HUKUM & PERATURAN (JDIH)
+
+### KB-037: Fungsi JDIH Provinsi NTB
+
+**Pertanyaan:**
+
+- JDIH digunakan untuk apa?
+- Apa manfaat JDIH bagi masyarakat?
+
+**Jawaban:**
+JDIH Provinsi NTB berfungsi sebagai pusat informasi produk hukum daerah. Melalui JDIH, masyarakat dapat:
+
+- Mencari Peraturan Daerah (Perda), Peraturan Gubernur (Pergub), dan keputusan lainnya
+- Mengunduh dokumen hukum resmi
+- Mengetahui dasar hukum kebijakan pemerintah daerah
+
+JDIH membantu masyarakat memahami aturan yang berlaku dan meningkatkan transparansi penyelenggaraan pemerintahan.
+
+**Keywords:** fungsi jdih, manfaat jdih, produk hukum, perda, pergub
+
+---
+
+### KB-038: Cara Mencari Peraturan di JDIH
+
+**Pertanyaan:**
+
+- Bagaimana cara mencari Perda atau Pergub?
+- Apakah saya bisa mencari peraturan berdasarkan kata kunci?
+
+**Jawaban:**
+Untuk mencari peraturan di JDIH Provinsi NTB:
+
+1. Masuk ke portal JDIH NTB.
+2. Gunakan kotak pencarian dengan memasukkan judul, nomor, tahun, atau kata kunci.
+3. Gunakan filter kategori jika tersedia (jenis peraturan, tahun, dll.).
+4. Pilih dokumen yang sesuai untuk dibaca atau diunduh.
+
+Sebagian besar dokumen tersedia dalam format PDF dan dapat diakses secara gratis.
+
+**Keywords:** cari peraturan, cari perda, cari pergub, jdih ntb, download peraturan
+
+---
+
+## 📋 KATEGORI 12: LAYANAN KESEHATAN
+
+### KB-039: Layanan Rumah Sakit Milik Pemprov NTB
+
+**Pertanyaan:**
+
+- Layanan apa saja yang tersedia di rumah sakit Provinsi NTB?
+- Apakah ada layanan rawat jalan dan rawat inap?
+
+**Jawaban:**
+Rumah sakit milik Pemerintah Provinsi NTB umumnya menyediakan layanan berikut:
+
+- Layanan rawat jalan (poliklinik umum dan spesialis)
+- Layanan rawat inap
+- Unit Gawat Darurat (UGD/IGD)
+- Layanan penunjang (laboratorium, radiologi, farmasi)
+- Layanan persalinan dan ibu-anak (di rumah sakit tertentu)
+- Layanan rujukan dari puskesmas dan fasilitas kesehatan lainnya
+
+Untuk informasi rinci mengenai jenis layanan, jadwal dokter, dan fasilitas masing-masing rumah sakit, silakan melihat informasi pada portal rumah sakit terkait atau menghubungi kontak resmi mereka.
+
+**Keywords:** rsup ntb, layanan rumah sakit, igd, rawat jalan, rawat inap, fasilitas kesehatan
+
+---
+
+### KB-040: Cara Mendaftar Berobat di Rumah Sakit
+
+**Pertanyaan:**
+
+- Bagaimana cara mendaftar berobat?
+- Apakah bisa daftar online?
+
+**Jawaban:**
+Cara pendaftaran berobat di rumah sakit milik Pemprov NTB dapat berbeda-beda, namun secara umum:
+
+1. **Pendaftaran langsung (offline):**
+   - Datang ke loket pendaftaran.
+   - Bawa KTP atau identitas diri.
+   - Bawa kartu BPJS atau asuransi lain (jika ada).
+   - Bawa surat rujukan (jika diperlukan).
+
+2. **Pendaftaran online (jika tersedia):**
+   - Masuk ke website atau aplikasi resmi rumah sakit.
+   - Isi data diri dan pilih poliklinik serta jadwal.
+   - Ikuti petunjuk hingga mendapatkan nomor antrean.
+
+Untuk kepastian cara pendaftaran, silakan cek informasi pada portal rumah sakit yang bersangkutan atau hubungi nomor layanan informasi rumah sakit tersebut.
+
+**Keywords:** daftar berobat, pendaftaran rumah sakit, bpjs, rujukan, daftar online
+
+---
+
+## 📋 KATEGORI 13: INFORMASI PUBLIK (PPID)
+
+### KB-041: Fungsi PPID Provinsi NTB
+
+**Pertanyaan:**
+
+- Apa fungsi PPID NTB?
+- PPID untuk apa?
+
+**Jawaban:**
+PPID (Pejabat Pengelola Informasi dan Dokumentasi) Provinsi NTB bertugas mengelola permohonan informasi publik dari masyarakat.
+
+Melalui PPID, masyarakat dapat:
+
+- Meminta salinan dokumen atau informasi publik
+- Menanyakan kebijakan, program, dan kegiatan pemerintah
+- Menyampaikan keberatan bila permohonan informasi tidak dipenuhi
+
+PPID dibentuk untuk menjamin hak masyarakat atas informasi sesuai Undang-Undang Keterbukaan Informasi Publik.
+
+**Keywords:** fungsi ppid, informasi publik, permohonan informasi, keterbukaan informasi
+
+---
+
+### KB-042: Cara Mengajukan Permohonan Informasi ke PPID
+
+**Pertanyaan:**
+
+- Bagaimana cara mengajukan permohonan informasi publik?
+- Apakah harus datang langsung ke PPID?
+
+**Jawaban:**
+Permohonan informasi publik di PPID Provinsi NTB dapat dilakukan dengan beberapa cara:
+
+1. **Secara online** melalui portal PPID:
+   - Mengisi formulir permohonan informasi.
+   - Menuliskan jenis informasi yang diminta.
+   - Mengisi identitas pemohon (nama, alamat, kontak).
+
+2. **Secara langsung (offline):**
+   - Datang ke kantor PPID dengan membawa identitas diri.
+   - Mengisi formulir permohonan di loket layanan.
+
+PPID akan memproses permohonan sesuai waktu yang diatur dalam peraturan dan memberikan jawaban apakah informasi dapat diberikan seluruhnya, sebagian, atau tidak dapat diberikan beserta alasannya.
+
+**Keywords:** permohonan informasi, cara mengajukan informasi, formulir ppid, layanan informasi ntb
+
+---
+
+## 📋 KATEGORI 14: PARIWISATA & KAWASAN
+
+### KB-043: Layanan Pemesanan Tiket Kawasan Wisata
+
+**Pertanyaan:**
+
+- Apakah ada sistem pemesanan tiket kawasan wisata di NTB?
+- Bagaimana cara memesan tiket kawasan wisata?
+
+**Jawaban:**
+Pemerintah Provinsi NTB menyediakan sistem pemesanan tiket untuk beberapa kawasan wisata yang dikelola pemerintah.
+
+Melalui layanan ini, pengunjung dapat:
+
+- Melihat informasi kawasan wisata yang tersedia
+- Memesan tiket kunjungan
+- Mengetahui ketentuan jumlah pengunjung dan jadwal kunjungan
+- Mengikuti prosedur pembayaran dan verifikasi secara online
+
+Informasi mengenai cara memesan, harga tiket, dan ketentuan kunjungan dapat dilihat di portal resmi kawasan wisata yang disediakan Pemprov NTB.
+
+**Keywords:** tiket wisata, kawasan wisata, pemesanan tiket, pariwisata ntb, kunjungan kawasan
+
+---
+
+### KB-044: Informasi Umum Pariwisata NTB
+
+**Pertanyaan:**
+
+- Potensi wisata apa saja di NTB?
+- Apa yang terkenal dari pariwisata NTB?
+
+**Jawaban:**
+Provinsi NTB memiliki banyak destinasi wisata unggulan, antara lain:
+
+- Pantai dan laut di Pulau Lombok (misalnya kawasan Gili, Mandalika, dan sekitarnya)
+- Wisata alam dan pegunungan (Gunung Rinjani dan kawasan sekitarnya)
+- Wisata bahari dan pantai di Pulau Sumbawa
+
+Pemerintah Provinsi NTB terus mengembangkan layanan dan infrastruktur untuk mendukung pariwisata yang berkelanjutan.
+
+**Keywords:** wisata ntb, pariwisata, gili, lombok, sumbawa, destinasi wisata
+
+---
+
+## 📋 KATEGORI 15: HARGA & EKONOMI (PANEL HARGA)
+
+### KB-045: Apa itu Panel Harga NTB?
+
+**Pertanyaan:**
+
+- Panel Harga NTB untuk apa?
+- Dimana saya bisa melihat harga kebutuhan pokok di NTB?
+
+**Jawaban:**
+Panel Harga NTB adalah layanan informasi harga komoditas, terutama kebutuhan pokok, di berbagai pasar di Nusa Tenggara Barat.
+
+Melalui Panel Harga, masyarakat dapat:
+
+- Melihat perkembangan harga harian atau periodik
+- Membandingkan harga antar pasar
+- Mendapatkan gambaran kondisi harga di daerahnya
+
+Layanan ini membantu masyarakat, pelaku usaha, dan pemerintah dalam memantau stabilitas harga dan mengambil keputusan yang lebih baik.
+
+**Keywords:** panel harga, harga kebutuhan pokok, informasi harga, ekonomi ntb
+
+---
+
+### KB-TBD: Akses Informasi Harga Bahan Pokok Harian di NTB
+
+**Pertanyaan:**
+- Di mana masyarakat bisa mengecek harga beras dan cabai terbaru di Lombok atau Sumbawa?
+- Cara melihat perkembangan harga sembako harian di Provinsi NTB
+- Apakah ada portal resmi untuk pantauan harga pangan di NTB?
+
+**Jawaban:**
+Masyarakat dapat memantau perkembangan harga bahan pokok secara real-time melalui aplikasi atau portal Panel Harga Pangan yang disediakan oleh Pemerintah Provinsi NTB. Portal ini menyajikan data harian komoditas seperti beras, minyak goreng, cabai, dan daging dari berbagai pasar induk di kabupaten/kota se-NTB.
+
+**Keywords:** harga bahan pokok, harga sembako harian, pantauan harga pangan, panel harga ntb, harga beras cabai
+
+---
+
+### KB-TBD: Cara Pedagang/Produsen Melaporkan Data Harga Pasar
+
+**Pertanyaan:**
+
+- Bagaimana mekanisme input data harga pasar oleh petugas survei lapangan?
+- Siapa yang memasukkan data perkembangan harga pangan harian di portal NTB?
+- Prosedur pelaporan berkala harga komoditas ekonomi daerah
+
+**Jawaban:**
+Data harga diperoleh dari petugas enumerator/survei lapangan bentukan Dinas Perdagangan atau Dinas Ketahanan Pangan yang tersebar di pasar-pasar pantauan. Petugas tersebut menginput fluktuasi harga setiap pagi melalui sistem backend Panel Harga sebelum diverifikasi dan ditampilkan ke publik.
+
+**Keywords:** input harga pasar, petugas enumerator, survei harga sembako, fluktuasi harga, dinas perdagangan
+
+---
+
+### KB-TBD: Pemanfaatan Data Panel Harga untuk Pengendalian Inflasi Daerah (TPID)
+
+**Pertanyaan:**
+
+- Apa kegunaan data panel harga ekonomi bagi pemerintah daerah?
+- Bagaimana peran data pangan NTB dalam mencegah kelangkaan barang?
+- Hubungan portal harga Kominfotik dengan TPID NTB
+
+**Jawaban:**
+Data dari Panel Harga digunakan secara intensif oleh Tim Pengendalian Inflasi Daerah (TPID) Provinsi NTB untuk mendeteksi lonjakan harga yang tidak wajar atau kelangkaan pasokan sejak dini. Hal ini memungkinkan pemerintah untuk segera mengambil kebijakan intervensi, seperti menggelar Operasi Pasar Murah.
+
+**Keywords:** tpid ntb, pengendalian inflasi, kelangkaan pasokan, operasi pasar murah, kebijakan ekonomi daerah
+
+---
+
+## 📋 KATEGORI 16: PERIZINAN & USAHA
+
+### KB-046: Layanan PLUT untuk Pelaku Usaha dan UMKM
+
+**Pertanyaan:**
+
+- PLUT bisa membantu apa saja?
+- Bagaimana PLUT membantu UMKM?
+
+**Jawaban:**
+PLUT (Pusat Layanan Usaha Terpadu) membantu pelaku usaha dan UMKM di NTB dalam berbagai hal, antara lain:
+
+- Informasi dan konsultasi perizinan usaha
+- Pendampingan penyusunan dokumen usaha
+- Informasi akses pembiayaan dan permodalan
+- Pelatihan dan pendampingan manajemen usaha
+
+Layanan ini bertujuan mempermudah pelaku usaha memulai dan mengembangkan usahanya di Nusa Tenggara Barat.
+
+**Keywords:** plut, layanan usaha, bantuan umkm, konsultasi usaha, pendampingan usaha
+
+---
+
+### KB-047: Cara Mengurus Izin Usaha
+
+**Pertanyaan:**
+
+- Bagaimana cara mengurus izin usaha?
+- Izin usaha UMKM diurus kemana?
+
+**Jawaban:**
+Secara umum, langkah mengurus izin usaha bisa dilakukan melalui:
+
+1. **Layanan perizinan berusaha secara elektronik** (OSS dan layanan pemerintah terkait).
+2. Menghubungi dinas terkait di kabupaten/kota sesuai jenis usaha.
+3. Mendatangi PLUT atau layanan pendampingan usaha untuk mendapatkan panduan.
+
+Dokumen yang biasanya diperlukan antara lain:
+
+- Identitas pemilik (KTP)
+- Data usaha (alamat, jenis kegiatan)
+- NPWP (jika diperlukan)
+
+Untuk informasi rinci dan prosedur terbaru, disarankan menghubungi PLUT atau dinas perizinan setempat.
+
+**Keywords:** izin usaha, perizinan usaha, cara urus izin, umkm, legalitas usaha
+
+---
+
+### KB-048: Informasi Izin Penelitian di NTB
+
+**Pertanyaan:**
+
+- Bagaimana cara mengurus izin penelitian di NTB?
+- Peneliti harus izin ke mana?
+
+**Jawaban:**
+Peneliti yang akan melakukan penelitian di wilayah Provinsi NTB umumnya perlu mengurus izin penelitian melalui instansi yang berwenang (biasanya bagian yang menangani perizinan penelitian di pemerintah daerah atau lembaga terkait).
+
+Secara umum, langkahnya:
+
+1. Menyiapkan proposal atau ringkasan penelitian.
+2. Menyiapkan surat pengantar dari institusi asal (kampus/lembaga).
+3. Mengajukan permohonan izin penelitian ke instansi terkait.
+
+Informasi lebih lanjut mengenai alur dan persyaratan dapat diperoleh melalui portal layanan perizinan atau dengan menghubungi kantor pemerintah provinsi/kabupaten setempat.
+
+**Keywords:** izin penelitian, perizinan penelitian, peneliti, riset, surat izin penelitian
+
+---
+
+## 📋 INFORMASI TAMBAHAN
+
+### Cara Menggunakan Knowledge Base Ini di Botpress:
+
+1. **Copy-paste setiap entry** ke Botpress Knowledge Base
+2. **Gunakan "Pertanyaan"** sebagai training phrases
+3. **Gunakan "Jawaban"** sebagai response
+4. **Keywords** bisa digunakan untuk meningkatkan matching
+
+### Format Input ke Botpress:
+
+Untuk setiap KB entry:
+
+- **Question/Intent**: Copy semua pertanyaan (pisahkan dengan enter)
+- **Answer**: Copy jawaban lengkap
+- **Category**: Gunakan kategori yang sudah ada
+- **Keywords**: Tambahkan keywords untuk better matching
+
+### Tips:
+
+✅ Test setiap entry setelah input
+✅ Tambahkan variasi pertanyaan sesuai kebutuhan
+✅ Update jawaban jika ada perubahan informasi
+✅ Monitor pertanyaan yang tidak terjawab untuk improvement
+
+---
+
+**Total Knowledge Base: 34 Entries**
+**Kategori: 9**
+**Bahasa: Indonesia**
+**Status: Ready to Use**
+
+---
+
+Dibuat untuk: Portal NTB - Pemerintah Provinsi Nusa Tenggara Barat
+Dikelola oleh: Dinas Komunikasi, Informatika, dan Statistik Provinsi NTB
+Tanggal: November 2025
