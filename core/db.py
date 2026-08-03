@@ -28,6 +28,40 @@ CATEGORIES = [
     "Perizinan Usaha dan Pendaftaran",
 ]
 
+# Pemetaan dari header markdown format lama (Knowledge_AI.txt, tanpa emoji)
+# ke nama kategori bersih di atas. Dipakai supaya data hasil migrasi dan
+# data yang ditambahkan lewat admin_app selalu tersimpan dengan format
+# yang SAMA - sebelumnya dua sumber ini menyimpan format berbeda dan
+# bikin statistik kategori pecah jadi baris ganda.
+KATEGORI_HEADER_MAP = {
+    "Layanan Publik": "## KATEGORI 1: LAYANAN PUBLIK",
+    "Aplikasi dan Sistem": "## KATEGORI 2: APLIKASI & SISTEM",
+    "Kontak dan Lokasi Instansi": "## KATEGORI 3: KONTAK & LOKASI",
+    "Informasi Administrasi Pemerintahan": "## KATEGORI 4: INFORMASI ADMINISTRASI",
+    "Prosedur dan Persyaratan Layanan": "## KATEGORI 5: PROSEDUR & PERSYARATAN",
+    "Wilayah dan Demografi Daerah": "## KATEGORI 6: WILAYAH & DEMOGRAFI",
+    "Informasi Umum Daerah": "## KATEGORI 7: INFORMASI UMUM",
+    "Bantuan Teknis dan Pengaduan": "## KATEGORI 8: BANTUAN TEKNIS",
+    "Layanan TIK dan Infrastruktur Digital": "## KATEGORI 9: LAYANAN TIK",
+    "Data Sektoral dan Satu Data": "## KATEGORI 10: DATA & SATU DATA",
+    "Hukum dan Peraturan Daerah JDIH": "## KATEGORI 11: HUKUM & PERATURAN (JDIH)",
+    "Layanan Kesehatan Masyarakat": "## KATEGORI 12: LAYANAN KESEHATAN",
+    "Informasi Publik PPID": "## KATEGORI 13: INFORMASI PUBLIK (PPID)",
+    "Pariwisata dan Kawasan Wisata": "## KATEGORI 14: PARIWISATA & KAWASAN",
+    "Harga Sembako dan Ekonomi Daerah": "## KATEGORI 15: HARGA & EKONOMI (PANEL HARGA)",
+    "Perizinan Usaha dan Pendaftaran": "## KATEGORI 16: PERIZINAN & USAHA",
+}
+
+_HEADER_TO_CATEGORY = {header: nama for nama, header in KATEGORI_HEADER_MAP.items()}
+
+
+def normalize_kategori(raw: str) -> str:
+    """Mengonversi header markdown lama (mis. '## KATEGORI 1: LAYANAN PUBLIK')
+    menjadi nama kategori bersih ('Layanan Publik'). Kalau input sudah berupa
+    nama bersih atau tidak dikenali, dikembalikan apa adanya.
+    """
+    return _HEADER_TO_CATEGORY.get(raw.strip(), raw.strip())
+
 
 def get_connection():
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)

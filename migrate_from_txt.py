@@ -13,6 +13,7 @@ import sys
 from pathlib import Path
 
 from core import db, nlp, vector_store
+from core.text_utils import strip_emoji
 
 
 def parse_knowledge_txt(file_path: str):
@@ -58,11 +59,11 @@ def parse_knowledge_txt(file_path: str):
 
             entries.append(
                 {
-                    "kategori": active_category,
-                    "topik": topik,
-                    "pertanyaan_list": questions,
-                    "jawaban": answer,
-                    "keywords": keywords,
+                    "kategori": db.normalize_kategori(strip_emoji(active_category)),
+                    "topik": strip_emoji(topik),
+                    "pertanyaan_list": [strip_emoji(q) for q in questions],
+                    "jawaban": strip_emoji(answer),
+                    "keywords": strip_emoji(keywords),
                 }
             )
             current_kb_title = None  # reset, tunggu judul KB berikutnya - INI KUNCI PERBAIKANNYA
@@ -105,7 +106,7 @@ def main():
         embeddings = nlp.embed_texts(all_new_texts)
         vector_store.save_index(embeddings, all_new_ids)
 
-    print("✅ Migrasi selesai. Database: data/knowledge.db | Index: data/embeddings.npy")
+    print("Migrasi selesai. Database: data/knowledge.db | Index: data/embeddings.npy")
 
 
 if __name__ == "__main__":
