@@ -108,5 +108,4 @@ if st.session_state.draft:
             vector_store.append_to_index(embeddings, ids)
 
         st.success(f"Entri **{result['kb_code']}** berhasil disimpan dengan {len(draft['pertanyaan_list'])} variasi pertanyaan, kategori **{kategori_final}**.")
-        st.balloons()
         st.session_state.draft = None
